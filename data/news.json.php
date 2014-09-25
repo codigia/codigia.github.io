@@ -1,4 +1,244 @@
-<?php
-header('Content-Type: application/json');
-echo file_get_contents("news.json");
-?>
+{
+  "news" : [
+      {
+        "time" : 1376229600,
+        "title" : "See event photos at Flickr",
+        "link" : "http://www.flickr.com/photos/euruko2013/"
+      },
+      {
+        "time" : 1372525200,
+        "title" : "Kiev, Ukraine is going to host EuRuKo 2014. Good Luck!"
+      },
+      {
+        "time" : 1372524600,
+        "title" : "EuRuKo 2013 just ended! We hope you had a great time!"
+      },
+      {
+        "time" : 1372488600,
+        "title" : "Day 2 begins in 10 minutes"
+      },
+      {
+        "time" : 1372417200,
+        "title" : "GitHub party tonight at Agia Eirini Sq.",
+        "link" : "http://euruko2013.org/party/"
+      },
+      {
+        "time" : 1372406400,
+        "title" : "Live stream is available",
+        "link" : "http://ustream.tv/channel/euruko-2013"
+      },
+      {
+        "time" : 1372398300,
+        "title" : "Registration is now open!"
+      },
+      {
+        "time" : 1372158000,
+        "title" : "Deadline to order lunch extended until Wed 26th",
+        "link" : "https://www.eventora.com/en/Events/lunch-euruko-delegates"
+      },
+      {
+        "time" : 1371891600,
+        "title" : "Last chance to order your EuRuKo lunch until Sunday 23rd!",
+        "link" : "https://www.eventora.com/en/Events/lunch-euruko-delegates"
+      },
+      {
+        "time" : 1371754800,
+        "title" : "Last minute tips!",
+        "link" : "http://euruko2013.org/guide/last-minute-tips"
+      },
+      {
+        "time" : 1371466800,
+        "title" : "Vodafone provides the Internet Uplink!",
+        "link" : "http://euruko2013.org/#additional"
+      },
+      {
+        "time" : 1371232800,
+        "title" : "EuRuKo party sponsored by GitHub <3",
+        "link" : "http://euruko2013.org/#additional"
+      },
+      {
+        "time" : 1371112200,
+        "title" : "CoLab provided the space to meetup and organise EuRuKo 2013",
+        "link" : "http://euruko2013.org/#additional"
+      },
+      {
+        "time" : 1370428200,
+        "title" : "New Relic is our newest Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1369983600,
+        "title" : "Logicea is a Helios sponsor",
+        "link" : "http://euruko2013.org/#helios"
+      },
+      {
+        "time" : 1369594800,
+        "title" : "Mobile Apps for iOS and Android are online!",
+        "link" : "http://euruko2013.org/#mobile"
+      },
+      {
+        "time" : 1369544400,
+        "title" : "Stack Builders is an Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1369458000,
+        "title" : "Globaldev is an Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1369078200,
+        "title" : "Suggestions for side activities are now available",
+        "link" : "http://euruko2013.org/guide/side-activities/"
+      },
+      {
+        "time" : 1368748800,
+        "title" : "Teowaki is an Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1368662400,
+        "title" : "Generation Y has the Selene sponsor gene",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1368489600,
+        "title" : "Flinc looks beautiful as an Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1368403200,
+        "title" : "Tickets sold out. We hope you got one!"
+      },
+      {
+        "time" : 1368316800,
+        "title" : "Ticket sales end tomorrow!",
+        "link" : "http://euruko2013.org/#tickets"
+      },
+      {
+        "time" : 1368230400,
+        "title" : "EuRuKo 2013 city & travel guide is now available",
+        "link" : "http://euruko2013.org/guide"
+      },
+      {
+        "time" : 1367884800,
+        "title" : "Final speaker lineup announced!",
+        "link" : "http://euruko2013.org/speakers"
+      },
+      {
+        "time" : 1367193600,
+        "title" : "Vote for the final speaker lineup!",
+        "link" : "http://cfp.euruko2013.org/proposals"
+      },
+      {
+        "time" : 1366761600,
+        "title" : "Workable shines as a Helios sponsor",
+        "link" : "http://euruko2013.org/#helios"
+      },
+      {
+        "time" : 1366675200,
+        "title" : "Xing is a Selene sponsor",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1366588800,
+        "title" : "Heroku is a Selene sponsor",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1366588800,
+        "title" : "DNSimple is a Selene sponsor",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1366329600,
+        "title" : "Pamediakopes.gr is a Selene sponsor",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1366243200,
+        "title" : "Engine Yard is a Helios sponsor",
+        "link" : "http://euruko2013.org/#helios"
+      },
+      {
+        "time" : 1366156800,
+        "title" : "Persado is our first Helios sponsor!",
+        "link" : "http://euruko2013.org/#helios"
+      },
+      {
+        "time" : 1366070400,
+        "title" : "Metaquark is an Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1365811200,
+        "title" : "Countdown for 2nd ticket batch started!",
+        "link" : "http://euruko2013.org/blog/2013-04-12-more-tickets-more-timezones-more-fun/"
+      },
+      {
+        "time" : 1365724800,
+        "title" : "20 supporter tickets will be made available",
+        "link" : "http://euruko2013.org/blog/2013-04-12-above-and-beyond/"
+      },
+      {
+        "time" : 1365552000,
+        "title" : "SoundCloud is a Selene sponsor",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1365465600,
+        "title" : "Avarteq is a Selene sponsor",
+        "link" : "http://euruko2013.org/#selene"
+      },
+      {
+        "time" : 1365379200,
+        "title" : "Our Gaia sponsor is Skroutz!",
+        "link" : "http://euruko2013.org/#gaia"
+      },
+      {
+        "time" : 1365379200,
+        "title" : "1st batch of tickets is coming!",
+        "link" : "http://euruko2013.org/#tickets"
+      },
+      {
+        "time" : 1365379200,
+        "title" : "Wooga is an Aphrodite sponsor",
+        "link" : "http://euruko2013.org/#aphrodite"
+      },
+      {
+        "time" : 1365033600,
+        "title" : "Koichi will speak at EuRuKo!",
+        "link" : "http://euruko2013.org/#speakers"
+      },
+      {
+        "time" : 1365033600,
+        "title" : "Steve Klabnik will rock the stage!",
+        "link" : "http://euruko2013.org/#speakers"
+      },
+      {
+        "time" : 1364428800,
+        "title" : "Call for Presentations is now open!",
+        "link" : "http://euruko2013.org/blog/2013-03-28-call-for-presentations/"
+      },
+      {
+        "time" : 1359504000,
+        "title" : "Sponsorship packages online!",
+        "link" : "http://euruko2013.org/#sponsors"
+      },
+      {
+        "time" : 1359158400,
+        "title" : "Tickets will be available soon",
+        "link" : "http://euruko2013.org/#tickets"
+      },
+      {
+        "time" : 1358985600,
+        "title" : "Sponsorship packages will be announcened on 30/01",
+        "link" : "http://euruko2013.org/#sponsors"
+      },
+      {
+        "time" : 1358985600,
+        "title" : "Website launch on 28/01",
+        "link" : "http://euruko2013.org/#about"
+      }
+  ]
+}
